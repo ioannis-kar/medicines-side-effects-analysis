@@ -56,7 +56,7 @@ A public dashboard visualizes the core findings, including:
 •	Comparison between habit-forming and non-habit-forming medicines
 Dashboard link: https://public.tableau.com/views/MedicinesandSideEffectsDataAnalysis/AnalysisofMedicinesandTheirSideEffects?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ________________________________________
-📄 Case Study PDF
+Case Study PDF
 Report covering:
 •	Project overview
 •	Methodology
@@ -64,7 +64,6 @@ Report covering:
 •	Analysis
 •	Insights & recommendations
 •	Conclusion and next steps
-PDF link: (add your PDF link here once uploaded)
 ________________________________________
 Key Takeaways
 •	Side effects are not randomly distributed — they cluster by therapeutic category and risk profile.
